@@ -3,12 +3,14 @@ html {
 }
 body {
   display: flex;
+  background-color: green;
   justify-content: center;
   align-items: center;
   height: 100%;
   margin: 0;
 }
 .card {
+  background-color: white;
   font-family: sans-serif;
   position: relative;
   width: 105px;
